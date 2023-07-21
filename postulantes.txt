@@ -1,0 +1,7 @@
+2021001;Kofla;Alejandro Rodriguez;918786453;75666524
+2021002;Francisco Mateo;Zegarra Barbosa;918483296;72899762
+2021004;Julian Koflo;Villafuerte Hulgo;987678654;67554322
+2021006;Luciano Kofla;Chavez Maduro;918675098;56788716
+2021007;Juancho Panza;James;987654567;78655426
+2021008;Ulises Sebastian;Kofla Juaxlo;987675222;76566453
+2021009;Yasin Sebastian;Toloza Marulanda;945871237;75412357

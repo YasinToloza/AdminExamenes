@@ -1,0 +1,5 @@
+100001;Psicologia;120
+100002;Comunicaciones;150
+100003;Ingenieria;210
+100005;Ingenieria Civil;300
+100007;Servicios web;5
