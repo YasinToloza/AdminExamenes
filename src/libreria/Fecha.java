@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 
 public class Fecha {
 
-	//  Métodos static que retornan valor (sin parámetros)
+	//  Metodos static que retornan valor (sin parametros)
 	public static String fecha() {
 		int ds;
 		String dia;
@@ -17,10 +17,10 @@ public class Fecha {
 			case 1: dia = "Domingo"; break;
 			case 2: dia = "Lunes"; break;
 			case 3: dia = "Martes"; break;
-			case 4: dia = "Miércoles"; break;
+			case 4: dia = "Miircoles"; break;
 			case 5: dia = "Jueves"; break;
 			case 6: dia = "Viernes"; break;
-			default: dia = "Sábado"; break;
+			default: dia = "Sabado"; break;
 		}
 		return dia + ", " + enTextoFecha(fechaActual());
 	}
@@ -40,7 +40,7 @@ public class Fecha {
 		ss = c.get(Calendar.SECOND);
 		return ajustar(hh) + ":" + ajustar(mm) + ":" + ajustar(ss);
 	}
-	//  Métodos static que retornan valor (con parámetros)
+	//  Metodos static que retornan valor (con parametros)
 	public static String enTextoFecha(String fecha) {
 		String[] s = fecha.split("/");
 		if (s.length == 3)

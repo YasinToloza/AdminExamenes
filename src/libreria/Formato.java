@@ -4,7 +4,7 @@ import java.util.Locale;
 
 public class Formato {
 	
-	//  Métodos static que retornan valor (con parámetros)
+	//  Metodos static que retornan valor (con parametros)
 	public static String ajusteA(double real) {
 		return String.format(Locale.US, "%2.2f", real);
 	}
